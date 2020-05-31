@@ -1,0 +1,33 @@
+<!DECOTYPE html>
+<html>
+    <head>
+   <title>MyWebPage</title>
+   </head>
+   <body>
+         <h1>CarTable</h1>  
+    <table>
+      <tr>
+        <th>CarBrand</th>
+        <th>model</th>
+        <th>year</th>
+       </tr>
+       <tr>
+       <td>Mercedes</td>
+       <td>C63</td>
+        <td>2014</td>
+       </tr>
+       <tr>
+       <td>Lamburgini</td>
+       <td>Horakan</td>
+        <td>2015</td>
+       </tr>
+<tr>
+       <td>Dodge</td>
+       <td>Durango</td>
+        <td>2020</td>
+       </tr>
+</table>
+
+
+   </body> 
+</html>
